@@ -51,7 +51,9 @@ class GuiRectangle(Rectangle):
 
 # create the GUI point class
 class GuiPoint(Point):
-    def draw(self, canvas, size=5, color='red'):
+    def draw(self, canvas, size=10, color='red'):
+
+        # Draw point
         canvas.penup()
         canvas.goto(self.x, self.y)
         canvas.pendown()
