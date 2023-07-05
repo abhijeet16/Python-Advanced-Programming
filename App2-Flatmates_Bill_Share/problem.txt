@@ -1,0 +1,23 @@
+Title: Flatmates Bill
+
+Description: This app takes the bill amount as an input for a particular period and number of days each of the
+two flatmates stayed in the apartment. This app returns the share of each of the flatmates based on the number of days
+each flatmate stayed in the house. It also generated a PDF report including the period of the bill and the share of each
+flatmate.
+
+###############################################################################
+Initial design ideas
+
+Objects: Bill:
+            - amount
+            - period
+
+         Flatmate:
+            - name
+            - days_stayed
+            - pays(bill)
+
+         PdfReport:
+            - filename
+            - generate(flatmate1, flatmate2, bill)
+                      
