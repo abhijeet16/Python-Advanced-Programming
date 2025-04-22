@@ -45,7 +45,7 @@ The repository uses the following Python libraries:
 - **FPDF**: For generating PDF reports in the Flatmates Bill Share application.
 - **Kivy**: For building graphical user interfaces in the Webcam Photo Sharer application.
 
-Refer to the `requirements.txt` file in the `App4-Webcam_Photo_Sharer` directory for a complete list of dependencies.
+Refer to the `requirements.txt` file in the home directory for a complete list of dependencies.
 
 ---
 
