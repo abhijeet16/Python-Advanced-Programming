@@ -12,6 +12,7 @@ This repository contains a collection of Python-based applications that demonstr
    - [Geometry Game](#geometry-game)
    - [Flatmates Bill Share](#flatmates-bill-share)
    - [Math Painting](#math-painting)
+   - [Webcam Photo Sharer](#webcam-photo-sharer)
 5. [Contributing](#contributing)
 6. [License](#license)
 
@@ -81,6 +82,17 @@ Refer to the `requirements.txt` file in the `App4-Webcam_Photo_Sharer` directory
   - `Files/canvas.py`
   - `Files/shapes.py`
   - `Files/main.py`
+
+---
+
+### Webcam Photo Sharer
+- **Description**: A GUI application to display and manipulate images using Kivy.
+- **Key Features**:
+  - Interactive GUI built with Kivy.
+  - Image manipulation and display.
+- **Files**:
+  - `frontend.kv`
+  - `main.py`
 
 ---
 
